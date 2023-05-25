@@ -5,9 +5,25 @@ I am the new Chief Data Scientist for my city's school district. I will be using
 
 Complete these scripts in Jupyter Notebook and push to my repository.
 
-# What I did:
-I first started out by
+# Output:
+I first started out by cloning my repository to my terminal and making a resources folder to store the csv files in. After that I opened up Jupyter Notebook to start on my assignment. I used the 'PyCitySchools_starter.ipynb' to get a layout idea. Throughout the Module 4 challenge I had created 9 separate DataFrames to showcase data from each section.
 
+# Sections
+District Summary
+School Summary
+Highest Performing Schools by Percentage of Overall Passing
+Lowest Performing Schools by Percentage of Overall Passing
+Math Scores by Grade
+Reading Scores by Grade
+Scores by School Spending
+Scores by School Size
+Scores by School Type
 
+At the end of completing all my DataFrames, I had to write an analysis on the trends that I saw that would help determine how schools would budget/prioritize in the future years. 
 
-https://stackoverflow.com/questions/66603854/futurewarning-the-default-value-of-regex-will-change-from-true-to-false-in-a-fu: helped with my future warning
+# Files
+schools_complete.csv
+students_complete.csv
+
+# Helpful links
+https://stackoverflow.com/questions/66603854/futurewarning-the-default-value-of-regex-will-change-from-true-to-false-in-a-fu: This website helped with my 'future warning' when I tried to convert a string to a float. I had found that I needed to add in 'regex=False' to get rid of the warning. 
