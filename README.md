@@ -5,7 +5,7 @@ I am the new Chief Data Scientist for my city's school district. I will be using
 
 Complete these scripts in Jupyter Notebook and push to my repository.
 
-# Output:
+# Output
 I first started out by cloning my repository to my terminal and making a resources folder to store the csv files in. After that I opened up Jupyter Notebook to start on my assignment. I used the 'PyCitySchools_starter.ipynb' to get a layout idea. Throughout the Module 4 challenge I had created 9 separate DataFrames to showcase data from each section.
 
 # Sections
@@ -22,7 +22,7 @@ Scores by School Type
 At the end of completing all my DataFrames, I had to write an analysis on the trends that I saw that would help determine how schools would budget/prioritize in the future years. 
 
 # Files
-schools_complete.csv
+schools_complete.csv /
 students_complete.csv
 
 # Helpful links
